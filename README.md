@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **A Platform for Github**
 - 🌱 I’m currently learning **Pyhton and C**
-- 💬 Ask me about **Go, Git and Python**
+- 💬 Ask me about **Git and Python**
 - 📫 How to reach me: [@HELIOS_xf00](https://twitter.com/HELIOS_xf00) on Twitter
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
