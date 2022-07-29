@@ -1,9 +1,11 @@
 <h2 align="center">👋 Hello! I'm Indunil Jayaranga</h2>
 
+- Independent security researcher
+- Network lover
 - 🔭 I’m currently working on **A Platform for Github**
 - 🌱 I’m currently learning **Pyhton and C**
-- 💬 Ask me about **Git and Python**
-- 📫 How to reach me: [@HELIOS_xf00](https://twitter.com/HELIOS_xf00) on Twitter
+- 💬 Ask me about **Security, Python, Linux, Networking etc**
+- 📫 How to reach me: [Indunil Jayaranga](https://www.linkedin.com/in/indunil-jayaranga-484a1b244/) on linkedin
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
 
