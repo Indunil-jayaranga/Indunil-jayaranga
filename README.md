@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Pyhton and C**
 - 💬 Ask me about **Security, Python, Linux, Networking etc**
 - 📫 How to reach me: [Indunil Jayaranga](https://www.linkedin.com/in/indunil-jayaranga-484a1b244/) on linkedin
-- ⚡ Fun fact: Big Fan of the :zap: emoji
+- CTF player [xth0th](https://tryhackme.com/p/xthoth)
 
 
 📈 my github stats
